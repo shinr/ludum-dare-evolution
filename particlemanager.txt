@@ -1,0 +1,5 @@
+import particle
+
+class ParticleManager:
+	def __init__(self):
+		self.particles = []
